@@ -1,5 +1,5 @@
 
-# Projeto Eleições
+# Projeto BubbleSort
 
 Pequena lógica que ordena um array de inteiros usando o algoritmo de ordenação Bubble Sort.
 
